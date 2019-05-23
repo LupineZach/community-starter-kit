@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A robotic app that says Hi to people.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It says hi to people
 
 ## Getting started
 
