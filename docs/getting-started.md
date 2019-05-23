@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Hi!!
+Hello!
+¡Hola!
+Aloha!
+Hy!
